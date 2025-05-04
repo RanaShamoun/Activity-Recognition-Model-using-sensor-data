@@ -1,6 +1,5 @@
 # CMPE-255 Data Mining
 # Credit Card Fraud Detection
-# Credit Card Fraud Detection
 
 This project aims to detect fraudulent credit card transactions using supervised machine learning algorithms. It uses a real-world dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and includes end-to-end pipeline workflows for data preprocessing, feature engineering, model training, threshold tuning, and evaluation.
 
