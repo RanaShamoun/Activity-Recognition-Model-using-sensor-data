@@ -3,6 +3,8 @@
 
 This project aims to detect fraudulent credit card transactions using supervised machine learning algorithms. It uses a real-world dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and includes end-to-end pipeline workflows for data preprocessing, feature engineering, model training, threshold tuning, and evaluation.
 
+NOTE: group_project_9_version10.ipynb is the current and final version of this project.
+
 ## Project Structure
 
 
