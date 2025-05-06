@@ -48,7 +48,7 @@ This project aims to detect fraudulent credit card transactions using supervised
 - Download `creditcard.csv` from Kaggle and place it in the `data/` directory.
 
 4. **Run the notebook**:
-- Open `group_project_9_version7.ipynb` in Jupyter or VS Code and execute all cells.
+- Open `group_project_9_version11.ipynb` in Jupyter or VS Code and execute all cells.
 
 
 
